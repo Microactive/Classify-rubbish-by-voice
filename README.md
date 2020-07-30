@@ -4,7 +4,7 @@
 # 效果展示
 &emsp;实物图片：
 
-<img src="[http:...](https://github.com/Microactive/Classify-rubbish-by-voice/raw/master/readme_pictures/general.jpg)" width = "100" height = "100" div align=center/>
+<p align="center"><img width="40%" src="https://github.com/Microactive/Classify-rubbish-by-voice/blob/master/readme_pictures/general.jpg" /></p>
 
 &emsp;演示视频：
 
