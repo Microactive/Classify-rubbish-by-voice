@@ -51,3 +51,5 @@
     ```
     <p align="center"><img width="60%" src="https://github.com/Microactive/Classify-rubbish-by-voice/blob/master/readme_pictures/check.png" /></p>
 11. 下载[本项目的工程文件](https://github.com/Microactive/Classify-rubbish-by-voice)，运行里面的``Speech_Rubbish_Recognition.py``文件即可
+
+# LD3320语音模块的技术文档：
